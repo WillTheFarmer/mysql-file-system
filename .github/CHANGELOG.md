@@ -1,0 +1,1 @@
+- [1.0.0] - 02/16/2026 - the first github release of mysql-file-system

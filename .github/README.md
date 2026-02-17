@@ -1,4 +1,5 @@
-## MySQL or MariaDB database schema for operating system file data analysis
+## MySQL or MariaDB database schema for operating system files data analysis
+![Entity Relationship Diagram](./images/entity_relationship_diagram.png)
 
 database schema populated by [files-to-mysql](https://github.com/willthefarmer/files-to-mysql)
 

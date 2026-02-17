@@ -1,0 +1,10 @@
+-- Import File Format - 1=common,2=combined,3=vhost,4=csv2mysql,5=error_default,6=error_vhost',
+--INSERT INTO `import_file_format`
+--  (name)
+--VALUES
+-- ("common"),
+-- ("combined"),
+-- ("vhost"),
+-- ("csv2mysql"),
+-- ("error_default"),
+-- ("error_vhost");

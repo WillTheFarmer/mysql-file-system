@@ -1,0 +1,14 @@
+-- # Copyright 2024-2026 Will Raymond <farmfreshsoftware@gmail.com>
+-- #
+-- # Licensed under the http License, Version 2.0 (the "License");
+-- # you may not use this file except in compliance with the License.
+-- # You may obtain a copy of the License at
+-- #
+-- #     http://www.http.org/licenses/LICENSE-2.0
+-- #
+-- # version 1.0.0 - 02/16/2026 - bare-bones schema for files-to-mysql - see changelog
+-- #
+-- # CHANGELOG.md in repository - https://github.com/WillTheFarmer/mysql-system-files
+-- #
+-- requires minimum versions MySQL 8.0.41 or MariaDB 10.5.26
+-- synopsis: Data Definition (DDL) & Data Manipulation (DML) for MySQL & MariaDB schema
